@@ -121,3 +121,8 @@ spring project
 
 싫어요를 누르면 매칭한 상대의 신뢰점수는 -1점이 주어진다.
 
+
+
+![image](https://github.com/MarkZiRo/lol/assets/37473857/33ebf77a-f143-429b-a3d2-7f75c2a57a9c)
+
+
